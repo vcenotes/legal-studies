@@ -47,7 +47,7 @@ A **government Bill** is a Bill that has been approved by the Cabinet. These Bil
 
 The majority of legislation introduced into parliament reflects the needs of the government departments. As the government represents the majority in the lower house, a Bill with Cabinet support will usually be passed by parliament. Government Bills include financial Bills, such as the budget, which provide for government spending.
 
-Any member of parliament can introduce a Bill without Cabinet support. A Bill may be introduced by a member of the opposition or by a government backbencher. These Bills are known as **private members&#39; Bills.**
+Any member of parliament can introduce a Bill without Cabinet support. A Bill may be introduced by a member of the opposition or by a government backbencher. These Bills are known as **private member&#39;s Bills.**
 
 Private members&#39; Bills are usually unsuccessful. Generally, members of parliament are members of a political party and will vote according to their party&#39;s policies. Private members&#39; Bills that have been introduced by the opposition are usually defeated, as members of the party in government will often vote against the proposition.
 
@@ -165,7 +165,7 @@ Words used may not cover recent changes. Legislation may have become outdated an
 
 There is legislation passed by both the Commonwealth and State parliaments specifically to guide courts. It sets out what other sources judges can use when interpreting legislation.
 
-The _Acts Interpretation Act 1901_ (Cth)states that Commonwealth Acts must be read or interpreted in accordance with the purpose or spirit of the legislation. Since 1981, all Acts of the Commonwealth parliament contain object clauses. These clauses are sections within the body of the Act setting out the general aims of the legislation.
+The _Acts Interpretation Act 1901_ (Cth) states that Commonwealth Acts must be read or interpreted in accordance with the purpose or spirit of the legislation. Since 1981, all Acts of the Commonwealth parliament contain object clauses. These clauses are sections within the body of the Act setting out the general aims of the legislation.
 
 Courts are permitted to refer to any reports prepared before the provisions were enacted. This includes reports by a Law Reform Commission, and treaties and international agreements referred to in the parliamentary process. Courts are required to consider explanatory materials when interpreting legislation.
 
