@@ -81,7 +81,7 @@ If the majority party in the lower house controls the upper house, the upper hou
 
 Alternatively, if the government does not have sufficient support in the upper house, legislation may not be passed. The upper house may act to frustrate the legislative program of the government and block the passage of legislation.
 
-Both houses of parliament are based on the principle of &quot; **representative** government&quot;. This means both the commonwealth, as well as the state parliaments, are elected by the people. The parliament is therefore answerable to the public and must make laws on their behalf in order to not jeopardise the chance of re-election. The parliament must vote on behalf of the majority of the community; however, this may be hard to assess. Regular elections are also held, to ensure that the parliament remains representative of the current people&#39;s opinion.
+Both houses of parliament are based on the principle of &quot;**representative** government&quot;. This means both the commonwealth, as well as the state parliaments, are elected by the people. The parliament is therefore answerable to the public and must make laws on their behalf in order to not jeopardise the chance of re-election. The parliament must vote on behalf of the majority of the community; however, this may be hard to assess. Regular elections are also held, to ensure that the parliament remains representative of the current people&#39;s opinion.
 
 # Chapter nine questions
 
